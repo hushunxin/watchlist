@@ -5,8 +5,10 @@ name = "pypi"
 
 [packages]
 flask = "*"
+python-dotenv = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.7"
